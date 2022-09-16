@@ -1,0 +1,2 @@
+M = float(input('Digite um valor em metros: '))
+print(f'O valor de {M} em:\nQuilômetros é {M/1000}\nHectômetro é {M/100}\nDecâmetro é {M/10}\nDecímetro é {M*10}\nCentímetro é {M*100}\nMilímetro é {M*1000} !')
